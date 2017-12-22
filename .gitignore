@@ -5,4 +5,5 @@ sendgrid.env
 /public/libs
 /public/images/postsGallery
 /public/images/profilePics
-
+/client_secret.json
+/calendar-go-quickstart.json
